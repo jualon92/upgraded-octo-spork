@@ -6,5 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'proyecto-prueba2';
+
+  title = 'proyecto-prueba22323';
+
+  constructor() {
+    // Initialization logic can go here
+  }
+
+  ngOnInit() {
+    // This lifecycle hook is called after the component is initialized
+  }
 }
